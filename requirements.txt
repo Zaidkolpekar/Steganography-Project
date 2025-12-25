@@ -1,0 +1,5 @@
+streamlit
+pillow
+pycryptodome
+streamlit-lottie
+requests
